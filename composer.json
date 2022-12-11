@@ -1,17 +1,22 @@
 {
-    "name": "soarecostin/file-vault",
-    "description": "",
+    "name": "soarecostin/file-vault-lumen",
+    "description": "lumen adatation for soarecostin/file-vault",
     "keywords": [
         "laravel", "encrypt", "decrypt", "encryption", "decryption",
         "cbc", "php", "file", "file-vault"
     ],
-    "homepage": "https://github.com/soarecostin/file-vault",
+    "homepage": "https://github.com/amelom/file-vault-lumen.git",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Costin Soare",
             "email": "soarecostin@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Andre Melo",
+            "email": "andresmelo@hotmail.com",
             "role": "Developer"
         }
     ],
