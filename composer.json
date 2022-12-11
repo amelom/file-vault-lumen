@@ -1,5 +1,5 @@
 {
-    "name": "soarecostin/file-vault-lumen",
+    "name": "amelom/file-vault-lumen",
     "description": "lumen adatation for soarecostin/file-vault",
     "keywords": [
         "laravel", "encrypt", "decrypt", "encryption", "decryption",
